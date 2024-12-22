@@ -1,6 +1,8 @@
 
 # Video Processing Pipeline
 
+https://www.youtube.com/watch?v=WJuTGVQ-TNU
+
 ## Overview
 
 This project provides a comprehensive pipeline to process videos by extracting audio, converting speech to text, translating text into Vietnamese, and integrating the translated audio back into the original video. The final output is an edited video with a Vietnamese voice-over.
