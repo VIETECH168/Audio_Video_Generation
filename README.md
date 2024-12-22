@@ -1,5 +1,5 @@
 
-# Video Processing Pipeline
+# Video and Audio Auto Transcript Pipeline
 
 https://www.youtube.com/watch?v=WJuTGVQ-TNU
 
